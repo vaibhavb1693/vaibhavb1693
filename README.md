@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @vaibhavb1693 , backend developer working in JAVA
-- 👀 I’m interested in distributed architecture
-- 🌱 I’m currently learning docker , kubernetes, cloud
-- 💞️ I’m looking to collaborate on backedn distrubutes systems
+- 👋 Hi, I’m @vaibhavb1693 , Software architect
+- 👀 Distributed architecture, GenAI, Devops, MLOps, AWS
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/vaibhav-bhatt-8b0365b5/)
 
 <!---
