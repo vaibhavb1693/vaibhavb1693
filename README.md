@@ -62,7 +62,6 @@ Payments infrastructure, financial data pipelines, trading platform backends —
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhavbhatt-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vaibhav-bhatt-8b0365b5/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-reach%20out-D14836?style=flat&logo=gmail)](vaibhavbhatt0007@gmail.com)
 
 > *Open to Staff / Principal Backend Engineer roles — distributed systems, platform engineering, high-scale infra.*
 <!---
